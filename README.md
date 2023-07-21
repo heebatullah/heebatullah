@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heeba</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4ae390fbb44f47cd600939756a7f7866503756e849651e368b219b8a611d1cf9/68747470733a2f2f632e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heebatullah&label=Profile%20views&color=0e75b6&style=flat" alt="heebatullah" /> </p>
 
 <p align="left"> <a href="https://twitter.com/heebaaah" target="blank"><img src="https://img.shields.io/twitter/follow/heebaaah?logo=twitter&style=for-the-badge" alt="heebaaah" /></a> </p>

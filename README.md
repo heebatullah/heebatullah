@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/heebaaah" target="blank"><img src="https://img.shields.io/twitter/follow/heebaaah?logo=twitter&style=for-the-badge" alt="heebaaah" /></a> </p>
 
-- 🌱 I’m currently learning **frameworks, Javascript and PHP**
+- 🌱 I’m currently learning **frameworks, Javascript and Python**
 
 - 💬 Ask me about **python & javascript**
 
